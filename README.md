@@ -1,6 +1,12 @@
 # 📚 BookStore MERN App
 
-A full-stack **Book Store** web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js). Users can register, login, add books, and view all the listed books.http://localhost:5173/
+A full-stack **Book Store** web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js). Users can register, login, add books, and view all the listed books.
+cd BookStore 
+cd frotend/backend
+npm i
+backend-npm start
+frontend - npm run dev
+http://localhost:5173/
 
 ---
 
